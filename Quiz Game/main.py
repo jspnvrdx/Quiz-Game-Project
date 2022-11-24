@@ -116,7 +116,11 @@ options = [
     ["A. [1, 0, 2, \'hello\', ”, []]", "B. Error", "C. [1, 2, \'hello\']","D. [1, 0, 2, 0, \'hello\', ”, []]"]
 ]
 
+print("Welcome to PYTHON QUIZ GAME!")
+
 new_game()
 
 while play_again():
     new_game()
+
+print("Thank you for playing QUIZ GAME! 🚀🚀")
